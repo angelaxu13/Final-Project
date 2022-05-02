@@ -1,5 +1,7 @@
 Zoom URL: https://usc.zoom.us/rec/share/C5xsuD38dPgXyyS55bP8s3l7VH5PG38z-JueFCl_8_XkfEjuCccS6Ui5uV8vIa4-.iC0q7DUGQbSjRpnm 
 
+Heroku URL: https://finalproject-axu.herokuapp.com
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
